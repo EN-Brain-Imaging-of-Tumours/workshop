@@ -1,0 +1,43 @@
++++
+date = "2018-03-29"
+title = "Home"
++++
+
+# ENBIT Workshop 2018
+
+The workshop of the ENBIT consortium, Data sharing & Tools for brain tumour imaging, will be held in Brussels, at The EGG, Rue Bara 175, on May 31st 2018.
+
+This meeting will be a place to discuss the creation, mainteinance, and usage of a database of clinical images from brain tumors.
+
+
+# Attendance
+
+The workshop is free of charge, and four travel grants are available. Interested and motivated researchers are welcome to apply. The capacity is limited.
+
+# Where and when?
+
+The workshop will take place at the conference space The Egg, 10 minutes walk from Brussels South station, on the 31th of May 2018, from 9 am to 5pm.
+
+Address: Rue Bara 175, 1050 Brussels.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10079.625865495702!2d4.3275753!3d50.8328964!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe028c6680611d1da!2sThe+Egg!5e0!3m2!1sen!2sfr!4v1522349474246" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
+# Registration
+
+Registration is **free**. Nonetheless the space is limited. Preference will be given to people presenting some work, and promotion of diversity will be a criterion of choice.
+
+To register, please write an email to enetbrainimgtumours@gmail.com mentioning **ENBIT WORKSHOP** in the title. Tell us about your interest in brain tumor imaging and data sharing, and specify if you would like to present something.
+
+Please register by **{{< deadline "reg" >}}**. You will be notified before **{{< deadline "not" >}}**
+
+
+# Travel Grants
+We can offer four travel grants of 300 USD **to students and early career researchers**. Diversity and quality of the contribution will be the selection criteria. The money will be refunded to the grantee after the workshop. If you request a travel grant, please specify it in your email.
+
+
+# Contacts
+ 
+For any question or request please contact
+[Daniele Marinazzo](<mailto:daniele.marinazzo@gmail.com>) or
+[ENBIT](<mailto:enetbrainimgtumours@gmail.com>)

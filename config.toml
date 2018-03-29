@@ -1,0 +1,30 @@
+baseurl = "https://EN-Brain-Imaging-of-Tumours.github.io/workshop/"
+languageCode = "en-us"
+title = "ENBIT network workshop"
+theme = "lithium"
+googleAnalytics = ""
+disqusShortname = ""
+publishdir = "docs"
+relativeURLS = true
+canonifyurls = true
+ignoreFiles = [ "\\.bak$" ]
+
+[blackfriday]
+   plainIDAnchors = true
+   hrefTargetBlank = true
+
+[permalinks]
+    post = "/:year/:title/"
+    page = "/:title/"
+
+[params]
+  titleshort = "ENBIT2018"
+  description = "ENBIT Network Research Meeting"
+  abs_deadline = "2018-05-03"
+  reg_deadline = "2018-05-20"
+  not_deadline = "2018-05-08"
+
+  [params.logo]
+    url = "logo.png"
+    width = 50
+    height = 50

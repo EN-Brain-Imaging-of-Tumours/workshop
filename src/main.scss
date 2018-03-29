@@ -1,0 +1,234 @@
+@import 'old';
+@import 'normalize';
+
+$nav_logo_bg: teal;
+$nav_logo_fg: #FFDC00;
+$nav_color: #e0f0f0;
+$link_color: #CBF8DF;
+$link_color: $nav_color;
+$text_gray: #505050; 
+$alfg: #eeeeee;
+$albg: #bb4444;
+$break: 800px;
+
+$padding: 10px;
+
+$basefontsize: 18px;
+$basefontsize_small: 14px;
+
+h1 {font-size: $basefontsize_small * 2.0;};
+h2 {font-size: $basefontsize_small * 1.3;};
+h3 {font-size: $basefontsize_small * 1.2;};
+h4 {font-size: $basefontsize_small * 1.1;};
+h5 {font-size: $basefontsize_small * 1.1;};
+h6 {font-size: $basefontsize_small * 1.1;};
+@media (min-width: $break) {
+    h1 {font-size: $basefontsize * 2.5;};
+    h2 {font-size: $basefontsize * 2.0;};
+    h3 {font-size: $basefontsize * 1.7;};
+    h4 {font-size: $basefontsize * 1.4;};
+    h5 {font-size: $basefontsize * 1.2;};
+    h6 {font-size: $basefontsize * 1.1;};
+}
+
+body {
+  font-family: 'Merriweather', serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Lato', sans-serif;
+  color: #222;
+}
+
+b, strong, dt {
+    font-weight: bold;
+    color: black;
+}
+
+code {
+    background-color: #eee;
+}
+
+em {
+    font-style: italic;
+}
+
+td {
+    padding-right: 15px;
+}
+
+.header {
+    // background-color: $nav_color;
+    box-shadow: 0px 5px 5px $nav_color;
+    padding: 25px 0;
+    @media screen and (min-width: $break) {
+        padding: 30px 0;
+    }
+}
+
+.nav {
+    margin: 0 auto;
+    text-align: right;
+    font-family: 'Lato', sans-serif;
+    width:100%;
+    @media screen and (min-width: $break) {
+        width: $break;
+    }
+    .logo {
+        float: left;
+        padding: 5px;
+
+        margin-left: $padding;
+        margin-top: -15px;
+        font-size: 30px;
+        @media screen and (min-width: $break) {
+            margin-top: -20px;
+            margin-left: 0px;
+            font-size: 40px;
+        }
+
+        font-weight: bold;
+        background-color: $nav_logo_bg;
+        transition: transform 150ms ease-out;
+        a {
+            color: $nav_logo_fg;
+            text-decoration: none;
+            &:hover, &:focus {
+                background-color: transparent;
+            }
+        }
+
+    }
+
+    .logo:hover {
+        transform: scale(1.1);
+    }
+    .nav-links {
+        margin: 0;
+        padding: 0;
+        margin-right: $padding;
+        font-size: $basefontsize_small * 1.1;
+        @media screen and (min-width: $break) {
+            font-size: $basefontsize * 1.1;
+            margin-right: 0px;
+        }
+        list-style: none;
+        li {
+            display: inline-block;
+            margin: -1px 0 0 15px;
+            padding: 5px;
+            border-color: lighten($nav_color, 5%);
+            border-width: 1px;
+            border-style: solid;
+            &:hover {
+                background-color: $nav_color;
+            }
+        }
+        li:first-child {
+            margin-left: 0;
+        }
+    }
+}
+
+#TableOfContents {
+    margin-left: 1ex;
+    margin-bottom: 1ex;
+    &:before{
+        font-family: 'Lato', sans-serif;
+        font-weight: bold;
+        content: "In This Page:";
+        margin: 10px;
+    }
+    background-color: $nav_color;
+    float: right;
+    ul {
+        padding-right: 10px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+}
+
+.article-content {
+    p {
+        margin: 15px 0 25px;
+    }
+}
+
+
+a {
+    color: darken($link_color, 50%);
+    background: transparent;
+    transition: background 150ms ease;
+    text-decoration: none;
+    &:hover, &:focus {
+        background-color: $link_color;
+        color: black;
+    }
+}
+
+.content {
+    // width: 95%;
+    // margin: 0px auto;
+    padding-left: $padding;
+    padding-right: $padding;
+
+    font-size: $basefontsize_small;
+    line-height: 1.3;
+
+    @media screen and (min-width: $break) {
+        width: $break;
+        padding: 0px;
+        margin: 100px auto;
+
+        font-size: $basefontsize;
+        line-height: 1.4;
+    }
+    color: $text_gray;
+}
+
+.alarmbox {
+    background-color: $albg;
+    color: $alfg;
+    padding: 2ex;
+
+    h1, h2, h3 {
+        color: $alfg;
+    }
+}
+
+.invited {
+    background-color: $nav_logo_bg;
+    padding: 0.3ex 1ex;
+    a {
+        color: $nav_logo_fg;
+        text-decoration: underline;
+        &:hover {
+            background-color: darken($nav_logo_bg, 5%);
+        }
+    }
+    color: $alfg;
+}
+
+dd {
+    a {
+        display: block;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+}
+
+.affiliations {
+    font-style: italic;
+    sup {
+        font-style: normal;
+    }
+    ul {
+        list-style-type: none;
+    }
+}

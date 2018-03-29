@@ -1,0 +1,14 @@
+<nav class="nav">
+
+        <div class="logo">
+    <a href="{{ .Site.BaseURL }}">
+            {{ .Site.Params.titleshort }}
+    </a>
+        </div>
+
+  <ul class="nav-links">
+    {{ range .Site.Menus.main }}
+    <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+    {{ end }}
+  </ul>
+</nav>

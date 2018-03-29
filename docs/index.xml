@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ENBIT network workshop</title>
+    <link>https://EN-Brain-Imaging-of-Tumours.github.io/workshop/</link>
+    <description>Recent content on ENBIT network workshop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://EN-Brain-Imaging-of-Tumours.github.io/workshop/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Home</title>
+      <link>https://EN-Brain-Imaging-of-Tumours.github.io/workshop/</link>
+      <pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://EN-Brain-Imaging-of-Tumours.github.io/workshop/</guid>
+      <description>ENBIT Workshop 2018 The workshop of the ENBIT consortium, Data sharing &amp;amp; Tools for brain tumour imaging, will be held in Brussels, at The EGG, Rue Bara 175, on May 31st 2018.
+This meeting will be a place to discuss the creation, mainteinance, and usage of a database of clinical images from brain tumors.
+Attendance The workshop is free of charge, and four travel grants are available. Interested and motivated researchers are welcome to apply.</description>
+    </item>
+    
+  </channel>
+</rss>
