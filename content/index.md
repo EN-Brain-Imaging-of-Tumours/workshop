@@ -27,9 +27,9 @@ Address: Rue Bara 175, 1050 Brussels.
 
 Registration is **free**. Nonetheless the space is limited. Preference will be given to people presenting some work, and promotion of diversity will be a criterion of choice.
 
-To register, please write an email to enetbrainimgtumours@gmail.com mentioning **ENBIT WORKSHOP** in the title. Tell us about your interest in brain tumor imaging and data sharing, and specify if you would like to present something.
+To register, please write an email to [enetbrainimgtumours@gmail.com](<mailto:enetbrainimgtumours@gmail.com>) mentioning **ENBIT WORKSHOP** in the subject. Tell us about your interest in brain tumor imaging and data sharing, and specify if you would like to present something.
 
-Please register by **{{< deadline "reg" >}}**. You will be notified before **{{< deadline "not" >}}**
+Please submit an abstract and an eventual request for student travel grant by **{{< deadline "abs" >}}**. You will be notified before **{{< deadline "not" >}}**. The final date to confirm your registration is **{{< deadline "reg" >}}**. **Please register only if you actually plan to come, otherwise food, money, and space will be wasted.**
 
 
 # Travel Grants
