@@ -5,7 +5,7 @@ title = "Home"
 
 # ENBIT Workshop 2018
 
-The workshop of the ENBIT consortium, Data sharing & Tools for brain tumour imaging, will be held in Brussels, at The EGG, Rue Bara 175, on May 31st 2018.
+The workshop of the [ENBIT consortium] (<https://www.enbit.ac.uk/>), Data Sharing & Tools for Brain Tumour Imaging, will be held in Brussels, at The EGG, Rue Bara 175, on May 31st 2018.
 
 This meeting will be a place to discuss the creation, mainteinance, and usage of a database of clinical images from brain tumors.
 
