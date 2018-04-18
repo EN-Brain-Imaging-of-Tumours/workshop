@@ -35,6 +35,19 @@ Please submit an abstract and an eventual request for student travel grant by **
 # Travel Grants
 We can offer four travel grants of 300 USD **to students and early career researchers**. Diversity and quality of the contribution will be the selection criteria. The money will be refunded to the grantee after the workshop. If you request a travel grant, please specify it in your email.
 
+# Program
+
+Complete program TBA (please consider contributing to it!).
+
+So far we will have blitz presentation from the following consortium members:
+
+-Hannelore Aerts
+-Roland Beisteiner
+-Linda Douw
+-Anders Eklund
+-Cyril Pernet
+
+We aim to privilege open discussions, notably on metadata, sharing formats and solutions, and on standard advanced imaging (beyond the basic T1, FLAIR, GAD, DWI, which default data would be best to collect).
 
 # Contacts
  
