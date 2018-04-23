@@ -39,15 +39,40 @@ We can offer four travel grants of 300 USD **to students and early career resear
 
 Complete program TBA (please consider contributing to it!).
 
-So far we will have blitz presentation from the following consortium members:
+Tentative schedule
 
--Hannelore Aerts
--Roland Beisteiner
--Linda Douw
--Anders Eklund
--Cyril Pernet
 
-We aim to privilege open discussions, notably on metadata, sharing formats and solutions, and on standard advanced imaging (beyond the basic T1, FLAIR, GAD, DWI, which default data would be best to collect).
+**09.00** - Cyril Pernet and Daniele Marinazzo - *Opening*
+
+**09.10** - Linda Douw - *Networks and cognition in brain tumors*
+
+**09.30** - Anders Eklund - *Gamma knives and software for brain tumour treatment*
+
+**09.50** - Christoph Stippich - *Advanced imaging standards, structured reporting,GRASP, fMRI/DTI*
+
+**10.10** - *Coffee break*
+
+**10.40** - Roland Beisteiner - *Pitfalls and reliability/replicability issues with clinical fMRI*
+
+**11.00** - *Open session/unconference where people can present projects, discuss issues, etc*
+
+**13.00** - *Lunch*
+
+**14.00** - *Parallel sessions (split room)*:
+
+- *group 1: BIDS session to work on metadata*
+
+- *group 2: 'standard' advanced imaging (what we be good to collect as default)* 
+
+**15.00** - *Coffee break*
+
+**15.30** - *Feedback from parallel sessions*
+
+**16.00** - Hannelore Aerts - *Modeling brain dynamics in brain tumor patients*
+
+**16.30** - *Contributed talks TBA*
+
+**17.30** - *Closing remarks*
 
 # Contacts
  
