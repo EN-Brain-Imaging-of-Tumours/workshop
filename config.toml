@@ -20,7 +20,7 @@ ignoreFiles = [ "\\.bak$" ]
 [params]
   titleshort = "ENBIT2018"
   description = "ENBIT Network Research Meeting"
-  abs_deadline = "2018-05-08"
+  abs_deadline = "2018-05-13"
   reg_deadline = "2018-05-20"
   not_deadline = "2018-05-15"
 
