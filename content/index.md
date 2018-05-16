@@ -63,6 +63,8 @@ We can offer four travel grants of 300 USD **to students and early career resear
 
 **13.00** - *Lunch*
 
+**13.40** - *Chris Phillips: data processing and its automatization*
+
 **14.00** - *Parallel sessions (split room)*:
 
 - *group 1: BIDS session to work on metadata*
