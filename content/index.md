@@ -44,19 +44,27 @@ Tentative schedule
 
 **09.00** - Cyril Pernet and Daniele Marinazzo - *Opening*
 
-**09.10** - Linda Douw - *Networks and cognition in brain tumors*
+**09.10** - Hannelore Aerts - *Modeling brain dynamics in brain tumor patients*
 
-**09.30** - Anders Eklund - *Gamma knives and software for brain tumour treatment*
+**09.30** - Javier Rasero- *Predicting functional networks from region connectivity profiles in task-based versus resting-state fMRI data and its possible applications to brain tumor data*
 
-**09.50** - Christoph Stippich - *Advanced imaging standards, structured reporting,GRASP, fMRI/DTI*
+**09.50** - Sofie Van Den Bossche - *Retrieving the HRF at rest: an application to brain tumor fMRI scans*
 
 **10.10** - *Coffee break*
 
-**10.40** - Roland Beisteiner - *Pitfalls and reliability/replicability issues with clinical fMRI*
+**10.40** - Data sharing - Bene Wiestler's experience at TUM
 
-**11.00** - *Open session/unconference where people can present projects, discuss issues, etc*
+**11.00** - Data sharing - Wouter de Baene's experience at TU
 
-**13.00** - *Lunch*
+**11.20** - Christoph Stippich - *Advanced imaging standards, structured reporting,GRASP, fMRI/DTI*
+
+**11.40** - Roland Beisteiner - *Pitfalls and reliability/replicability issues with clinical fMRI*
+
+**12.00** - Linda Douw - *Networks and cognition in brain tumors*
+
+**12.20** - Anders Eklund - *Gamma knives and software for brain tumor treatment*
+
+**12.40** - *Lunch*
 
 **14.00** - *Parallel sessions (split room)*:
 
@@ -66,11 +74,7 @@ Tentative schedule
 
 **15.00** - *Coffee break*
 
-**15.30** - *Feedback from parallel sessions*
-
-**16.00** - Hannelore Aerts - *Modeling brain dynamics in brain tumor patients*
-
-**16.30** - *Contributed talks TBA*
+**15.30** - *Feedback from parallel sessions, and reprise of joint work, brainstorming, coding, etc*
 
 **17.30** - *Closing remarks*
 
