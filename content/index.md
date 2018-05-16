@@ -16,7 +16,7 @@ The workshop is free of charge, and four student travel grants are available. In
 
 # Where and when?
 
-The workshop will take place at the conference space The Egg, 10 minutes walk from Brussels South station, on the 31th of May 2018, from 9 am to 5pm.
+The workshop will take place at the conference space The Egg, 10 minutes walk from Brussels South station, on the 31th of May 2018, from 9 am to 5.30pm.
 
 Address: Rue Bara 175, 1050 Brussels.
 
@@ -36,11 +36,6 @@ Please submit an abstract and an eventual request for student travel grant by **
 We can offer four travel grants of 300 USD **to students and early career researchers**. Diversity and quality of the contribution will be the selection criteria. The money will be refunded to the grantee after the workshop. If you request a travel grant, please specify it in your email.
 
 # Program
-
-Complete program TBA (please consider contributing to it!).
-
-Tentative schedule
-
 
 **09.00** - Cyril Pernet and Daniele Marinazzo - *Opening*
 
@@ -76,7 +71,7 @@ Tentative schedule
 
 **15.00** - *Coffee break*
 
-**15.30** - *Feedback from parallel sessions, and reprise of joint work, brainstorming, coding, etc*
+**15.30** - *Feedback from parallel sessions, brainstorming, coding, enlarging the consortium, discuss collaborations, grant applications, etc*
 
 **17.30** - *Closing remarks*
 
