@@ -56,15 +56,17 @@ Tentative schedule
 
 **11.00** - Data sharing - Wouter de Baene's experience at TU
 
-**11.20** - Christoph Stippich - *Advanced imaging standards, structured reporting,GRASP, fMRI/DTI*
+**11.20** - Data sharing - Moss Zhao's experience at Oxford
 
-**11.40** - Roland Beisteiner - *Pitfalls and reliability/replicability issues with clinical fMRI*
+**11.40** - Christoph Stippich - *Advanced imaging standards, structured reporting,GRASP, fMRI/DTI*
 
-**12.00** - Linda Douw - *Networks and cognition in brain tumors*
+**12.00** - Roland Beisteiner - *Pitfalls and reliability/replicability issues with clinical fMRI*
 
-**12.20** - Anders Eklund - *Gamma knives and software for brain tumor treatment*
+**12.20** - Linda Douw - *Networks and cognition in brain tumors*
 
-**12.40** - *Lunch*
+**12.40** - Anders Eklund - *Gamma knives and software for brain tumor treatment*
+
+**13.00** - *Lunch*
 
 **14.00** - *Parallel sessions (split room)*:
 
